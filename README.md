@@ -1,3 +1,8 @@
+## Keywords / 关键词
+
+**English:** `cosmic-life`, `chinese-philosophy`, `dynamic-systems`, `taoism`, `yi-jing`, `metaphysics`, `quantum-physics`, `unified-theory`, `iching`, `book-of-changes`
+
+**中文:** `宇宙生命`, `中国哲学`, `动态系统`, `道家`, `易经`, `形而上学`, `量子物理`, `统一理论`, `周易`, 《易经》
 Yidao Grand Evolution: The Cosmic Life Dynamic System 🌌🧬
 From the I-Ching to a Unified Theory of Everything: An Operating System for Cosmic Life
 中文版本 | Explore the Docs | View on GitHub
