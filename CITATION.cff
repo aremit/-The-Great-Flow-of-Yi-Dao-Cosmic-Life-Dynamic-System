@@ -1,0 +1,19 @@
+cff-version: 1.2.0 
+message: "If you use this software, please cite it using the following metadata."
+title: "The Great Flow of Yi Dao: Cosmic Life Dynamic System"
+version: 1.0.0-alpha  
+doi: 10.17605/OSF.IO/K9BAU
+url: "https://github.com/aremit/The-Great-Flow-of-Yi-Dao-Cosmic-Life-Dynamic-System"
+authors:
+  - family-names: Chen
+    given-names: HaiPing
+    # orcid: https://orcid.org/0009-0005-4367-2450
+keywords:
+  - "Chinese Philosophy"
+  - "Metaphysics"
+  - "Cosmology"
+  - "Systems Theory"
+  - "Quantum Foundations"
+repository-code: "https://github.com/aremit/The-Great-Flow-of-Yi-Dao-Cosmic-Life-Dynamic-System"
+license: MIT  
+abstract: "A meta-theoretical framework integrating Yijing philosophy and Traditional Chinese Medicine with modern systems science to model cosmic and life dynamics, offering novel perspectives on fundamental physics problems like the unification of General Relativity and Quantum Mechanics."
