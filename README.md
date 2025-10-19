@@ -3,12 +3,12 @@
 **English:** `cosmic-life`, `chinese-philosophy`, `dynamic-systems`, `taoism`, `yi-jing`, `metaphysics`, `quantum-physics`, `unified-theory`, `iching`, `book-of-changes`
 
 **中文:** `宇宙生命`, `中国哲学`, `动态系统`, `道家`, `易经`, `形而上学`, `量子物理`, `统一理论`, `周易`, 《易经》
-# The Cosmic Life Dynamic System / 宇宙生命动态系统
+# The-Great-Flow-of-Yi-Dao Cosmic Life Dynamic System / 易道大化流行的宇宙生命动态系统
 
 [English](#english) | [中文](#中文)
 
 <a name="english"></a>
-## 🌌 The Cosmic Life Dynamic System: A Meta-Theory for Harmony
+## 🌌The-Great-Flow-of-Yi-Dao Cosmic Life Dynamic System: A Meta-Theory for Harmony
 
 > **A grand unified framework integrating Eastern wisdom (Yi Jing, Daoism, TCM) with modern physics to resolve fundamental conflicts from personal cultivation to the laws of the cosmos.**
 
