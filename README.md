@@ -82,7 +82,7 @@ Apply the "analogical thinking" method to map core contradictions onto the "Qi-P
 ---
 
 ## 资源链接 / Resources
-- **OSF项目**：`https://osf.io/your-project`  
+- **OSF项目**：`https://osf.io/(https://osf.io/k9bau) 
 - **完整文档**：查看 `理论手稿/` 目录  
 - **互动讨论**：通过 GitHub Issues 参与  
 
