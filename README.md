@@ -24,19 +24,19 @@ A meta-theory:Cosmic Life Dynamic System based on Yi Jing philosophy, unifying t
 
 ## 核心概念 / Core Concepts
 
-### 非线性数学作为思维  
+### 非线性数学作为思维 Nonlinear mathematics as a mode of thinking 
 **中文**：超越公式和模型，专注于整体性和动态关系。  
 **English**: Transcends formulas and models, focusing on holistic and dynamic relationships.  
 
-### 气-象-形-器生成链  
+### 气-象-形-器生成链  The Qi–Xiang–Xing–Qi Generation Chain
 **中文**：描述从能量到具体显现的宇宙生命过程。  
 **English**: Describes the cosmic life process from energy to concrete manifestation.  
 
-### 三阴三阳动态网络  
+### 三阴三阳动态网络  The Dynamic Network of Three Yin and Three Yang
 **中文**：模拟宇宙能量的流动和转化。  
 **English**: Simulates the flow and transformation of cosmic energy.  
 
-### GR-QM统一通过非线性调节  
+### GR-QM统一通过非线性调节  Unification of GR and QM through nonlinear regulation
 **中文**：解决广义相对论与量子力学的矛盾。  
 **English**: Resolves the conflict between General Relativity and Quantum Mechanics.  
 
@@ -54,14 +54,14 @@ git clone https://github.com/aremit/The-Great-Flow-of-Yi-Dao.git
 
 ## 应用领域 / Application Areas
 
-### 认知科学与人工智能
+### 认知科学与人工智能Cognitive Science and Artificial Intelligence
 **中文**  
 为强人工智能（AGI）提供“取物比类”的元认知框架，超越当前的统计学习模式。  
 
 **English**  
 Provides an "analogical thinking" meta-cognitive framework for AGI, transcending current statistical learning models.  
 
-### 复杂系统与全球治理
+### 复杂系统与全球治理Complex Systems and Global Governance
 **中文**  
 将文明冲突、经济周期、生态危机视为“宇宙生命动态系统”的“枢机失调”。  
 
@@ -72,7 +72,7 @@ Views civilizational conflicts, economic cycles, and ecological crises as "pivot
 
 ## 实践指南 / Practical Guidance
 
-### 对于研究者
+### 对于研究者For researchers
 **中文**  
 运用“取物比类”心法，将领域核心矛盾映射到“气-象-形-器”生成链中。  
 
