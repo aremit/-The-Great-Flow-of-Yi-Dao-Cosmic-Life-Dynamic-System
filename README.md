@@ -3,22 +3,22 @@
 **English:** `cosmic-life`, `dynamic-systems`, `taoism`, `yi-jing`, `metaphysics`, `quantum-physics`, `unified-theory`, `iching`, `book-of-changes`
 
 **中文:** `宇宙生命`, `动态系统`, `道家`, `易经`, `形而上学`, `量子物理`, `统一理论`, `周易`, 《易经》,宇宙生命动态系统 (Cosmic Life Dynamic System)
-非线性数学 (Nonlinear Mathematics)复杂系统​ (Complex Systems)线性数学​ (Linear Mathematics)元理论​ (Meta-Theory)
-生成本体论​ (Generative Ontology)
-动态系统​ (Dynamic Systems)
+非线性数学 Nonlinear Mathematics复杂系统​ Complex Systems线性数学​ Linear Mathematics元理论​ Meta-Theory
+生成本体论​ Generative Ontology
+动态系统​ Dynamic Systems
 # The-Great-Flow-of-Yi-Dao Cosmic Life Dynamic System / 易道大化流行的宇宙生命动态系统
 
 # 易道大化流行的宇宙生命动态系统  
-*The-Great-Flow-of-Yi-Dao Cosmic Life Dynamic System*  
+*The Great Flow of YiDao Cosmic Life Dynamic System*  
 
 ---
 
 ## 简介 / Introduction
 **中文**  
-一个基于易经哲学的元理论框架，旨在通过非线性思维统一理解宇宙、生命和意识。  
+一个基于易经哲学的元理论:宇宙生命动态系统，旨在通过非线性思维统一理解宇宙、生命和意识。  
 
 **English**  
-A meta-theoretical framework based on Yi Jing philosophy, unifying the understanding of cosmos, life, and consciousness through nonlinear thinking.  
+A meta-theory:Cosmic Life Dynamic System based on Yi Jing philosophy, unifying the understanding of cosmic life, and consciousness through nonlinear thinking.  
 
 ---
 
