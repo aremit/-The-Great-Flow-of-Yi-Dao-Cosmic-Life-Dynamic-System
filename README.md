@@ -39,25 +39,34 @@ A meta-theoretical framework based on Yi Jing philosophy, unifying the understan
 - **Metal**: Contracting, descending nature
 - **Water**: Moistening, cold nature
 
-### 三阴三阳状态循环 / Three Yin Three Yang State Cycle
+### 三阴三阳开阖枢体系 / Three Yin Three Yang Opening-Closing-Pivoting System
+**中文**：阴阳各具开阖枢三相，构成完整的动态循环
+- **太阳 Taiyang**：为开，阳气开发布散
+- **阳明 Yangming**：为阖，阳气收敛闭合  
+- **少阳 Shaoyang**：为枢，阳气转枢调节
+- **太阴 Taiyin**：为开，阴气开发布散
+- **厥阴 Jueyin**：为阖，阴气收敛闭合
+- **少阴 Shaoyin**：为枢，阴气转枢调节
 
-**中文**：能量在五行节点间的六种基本运行状态
-
-- **太阳 Taiyang**：阳气初生状态
-- **阳明 Yangming**：阳气旺盛状态
-- **少阳 Shaoyang**：阳气转枢状态
-- **太阴 Taiyin**：阴气初生状态
-- **少阴 Shaoyin**：阴气旺盛状态
-- **厥阴 Jueyin**：阴气转枢状态
-
-**English**: Six fundamental energy states circulating through Five Element nodes
-
-- **Taiyang**: Initial Yang energy state
-- **Yangming**: Flourishing Yang energy state
-- **Shaoyang**: Pivotal Yang energy state
-- **Taiyin**: Initial Yin energy state
-- **Shaoyin**: Flourishing Yin energy state
-- **Jueyin**: Pivotal Yin energy state
+**English**: Yin and Yang each possess opening, closing and pivoting phases, forming a complete dynamic cycle
+- **Taiyang**: As Opening, Yang energy developing and distributing
+- **Yangming**: As Closing, Yang energy contracting and closing
+- **Shaoyang**: As Pivot, Yang energy pivoting and regulating
+- **Taiyin**: As Opening, Yin energy developing and distributing  
+- **Jueyin**: As Closing, Yin energy contracting and closing
+- **Shaoyin**: As Pivot, Yin energy pivoting and regulating
+  ### 关键转折节点 / Key Transition Nodes
+**阴阳转化临界点**：
+- **阳明为阖**：阳尽阴生之过渡
+- **厥阴为阖**：阴尽阳生之转折
+**枢机调节中心**：
+- **少阳为枢**：调节太阳阳明转化
+- **少阴为枢**：调节太阴厥阴转化
+  ### 系统科学应用 / Systems Science Application
+**复杂系统分析**：
+- 开：系统能量输出状态
+- 阖：系统能量收敛状态
+- 枢：系统调节转换机制
 
 ### 非线性动态思维 / Nonlinear Dynamic Thinking
 
