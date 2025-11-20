@@ -6,10 +6,10 @@
 非线性思维 Nonlinear thinking 复杂系统​ Complex Systems线性数学​ Linear Mathematics元理论​ Meta-Theory
 生成本体论​ Generative Ontology
 动态系统​ Dynamic Systems
-# The Great Flow of Yi Dao Cosmic Life Dynamic System / 易道大化流行的宇宙生命动态系统
+# The Great Flow of YiDao Cosmic Life Dynamic System / 易道大化流行的宇宙生命动态系统
 
-# 易道大化流行的宇宙生命动态系统  
-*The Great Flow of YiDao Cosmic Life Dynamic System*  
+# 非线性思维下的宇宙生命动态系统  
+*Cosmic Life Dynamic System on nonlinear thinking*  
 
 ## 概述 / Overview
 
