@@ -8,8 +8,8 @@
 动态系统​ Dynamic Systems
 # The Great Flow of YiDao Cosmic Life Dynamic System / 易道大化流行的宇宙生命动态系统
 
-# 非线性思维下的宇宙生命动态系统  
-*Cosmic Life Dynamic System on nonlinear thinking*  
+# 非线性宇宙生命动态系统  
+*nonlinear cosmic life dynamic systemg*  
 ## 核心亮点 / Key Features
 - 🎯 **元理论框架** / **Meta-Theoretical Framework** - 融合东方智慧与西方科学 / Integrating Eastern wisdom with Western science
 - 🌐 **跨学科应用** / **Interdisciplinary Applications** - 从物理统一到人工智能 / From physics unification to artificial intelligence
