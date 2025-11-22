@@ -13,17 +13,16 @@
 ## 核心亮点 / Key Features
 - 🎯 **元理论框架** / **Meta-Theoretical Framework** - 融合东方智慧与西方科学 / Integrating Eastern wisdom with Western science
 - 🌐 **跨学科应用** / **Interdisciplinary Applications** - 从物理统一到人工智能 / From physics unification to artificial intelligence
-- 🔄 **非线性动态系统思维** / **Nonlinear Dynamic Systems Thinking** - 超越线性数学局限 / Transcending the limitations of linear mathematics
+- 🔄 **非线性动态系统思维** / **Nonlinear Dynamic Systems Thinking** - 超越线性数学局限 / Transcending the limitations of linear mathematics-非线性动态系统是一种思维而不是一个公式，一个模型/A nonlinear dynamical system is a mode of thinking, not a formula or a model
+
 
 
 ## 概述 / Overview
 
 **中文**  
 基于易经哲学的元理论框架，通过非线性思维和动态系统理论，统一理解宇宙、生命和意识的本质规律。
-
 **English**  
 A meta-theoretical framework based on Yi Jing philosophy, unifying the understanding of cosmic, life and consciousness essence through nonlinear thinking and dynamic systems theory.
-
 ## 核心理论框架 / Core Theoretical Framework
 
 ### 五行网络结构 / Five-Element Network Structure
