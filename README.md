@@ -179,7 +179,7 @@ git clone https://github.com/aremit/The-Great-Flow-of-Yi-Dao.git
 
 ### 学术交流 / Academic Exchange
 - **问题讨论**：GitHub Issues
-- **合作联系**：aremit@aremitzy.com
+- **合作联系**：aremit@163.com
 - **学术会议**：定期线上研讨会
 
 ---
