@@ -176,6 +176,7 @@ git clone https://github.com/aremit/The-Great-Flow-of-Yi-Dao.git
 - **OSF项目**：https://osf.io/k9bau
 - **academia存档**：(https://independent.academia.edu/haipingchen4)
 - **GitHub仓库**：https://github.com/aremit/The-Great-Flow-of-Yi-Dao
+- **philpapers预印本**:https://philpapers.org/rec/TFNSNA
 
 ### 学术交流 / Academic Exchange
 - **问题讨论**：GitHub Issues
