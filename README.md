@@ -1,6 +1,6 @@
 ## Keywords / 关键词
 
-**English:** `cosmic-life`, `dynamic-systems`, `taoism`, `yi-jing`, `metaphysics`, `quantum-physics`, `unified-theory`, `iching`, `book-of-changes`
+**English:** `cosmic-life`, `dynamic-systems`, `taoism`, `yi-jing`, `metaphysics`, `quantum-physics`, `unified-theory`, `iching`, `book-of-changes`,activationism,Diabetes Mellitus
 
 **中文:** `宇宙生命`, `动态系统`, `道家`, `易经`, `形而上学`, `量子物理`, `统一理论`, `周易`, 《易经》,宇宙生命动态系统 (Cosmic Life Dynamic System)
 非线性思维 Nonlinear thinking 复杂系统​ Complex Systems线性数学​ Linear Mathematics元理论​ Meta-Theory
