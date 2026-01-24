@@ -25,6 +25,7 @@
 **English**  
 A meta-theoretical framework based on Yi Jing philosophy, unifying the understanding of cosmic, life and consciousness essence through nonlinear thinking and dynamic systems theory.
 ## 核心理论框架 / Core Theoretical Framework
+ITP​ 是本理论框架的开发项目标识，其理念是 Integrated Theoretical-Philosophical Framework，致力于构建连接理论与哲学、东方与西方的综合性认知体系。ITP-CLDS(Integrated Theoretical-Philosophical Cosmic Life Dynamic Systems)理论与哲学整合的宇宙生命动态系统
 
 ### 五行网络结构 / Five-Element Network Structure
 
