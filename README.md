@@ -239,3 +239,30 @@ git clone https://github.com/aremit/The-Great-Flow-of-Yi-Dao.git
 *Observe quietly, and all things will transform naturally*
 ## 快速开始 / Quick Start
 
+## 正交项与中华文化的同构
+
+**慧能的“烦恼即菩提”** · **儒家的“中庸”** · **道家的“无为”**  
+——三者并非平行罗列，而是三个独立的正交维度，共同张成中华文化的深层认知空间。
+
+| 正交轴 | 核心操作 | 作用方向 |
+|--------|----------|----------|
+| 烦恼即菩提 | 穿透二元对立，揭示同一性 | 垂直穿透（本体层） |
+| 中庸 | 执两用中，动态平衡 | 水平调节（现象层） |
+| 无为 | 顺自然之势，不妄为 | 时间向度（演化层） |
+
+三轴互不冗余，合而为一整体——这正是中华文化“一即一切，一切归一”的同构表达。
+
+---
+
+## Orthogonal Axes and the Isomorphism of Chinese Culture
+
+**Huineng's “Affliction is Bodhi”** · **Confucian “Zhongyong (the Mean)”** · **Daoist “Wuwei (Non‑action)”**  
+— These three are not parallel items but three independent orthogonal dimensions that together span the deep cognitive space of Chinese culture.
+
+| Orthogonal Axis | Core Operation | Direction |
+|-----------------|----------------|-----------|
+| Affliction is Bodhi | Penetrate duality, reveal identity | Vertical penetration (ontological layer) |
+| Zhongyong (the Mean) | Hold the two ends, find the dynamic middle | Horizontal regulation (phenomenal layer) |
+| Wuwei (Non‑action) | Follow natural momentum, refrain from forcing | Temporal dimension (evolutionary layer) |
+
+Three axes, non‑redundant, converge into one whole — this is precisely the isomorphic expression of Chinese culture: “One in all, all returning to One.”
