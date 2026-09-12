@@ -240,8 +240,8 @@ git clone https://github.com/aremit/The-Great-Flow-of-Yi-Dao.git
 ## 快速开始 / Quick Start
 
 ## 正交项与中华文化的同构
-Aremit Orthogonal Cognitive Baseline: Affliction is Bodhi，Zhongyong, Wuwei — Transforming three traditional Eastern wisdoms into orthogonal dimensions of cosmic-life dynamic system
-Aremit 正交认知基准：烦恼即菩提、中庸、无为 —— 将三项东方传统智慧转化为宇宙生命动态系统的正交维度
+**Aremit Orthogonal Cognitive Baseline: Affliction is Bodhi，Zhongyong, Wuwei — Transforming three traditional Eastern wisdoms into orthogonal dimensions of cosmic-life dynamic system
+**Aremit 正交认知基准：烦恼即菩提、中庸、无为 —— 将三项东方传统智慧转化为宇宙生命动态系统的正交维度
 **慧能的“烦恼即菩提”** · **儒家的“中庸”** · **道家的“无为”**  
 ——三者并非平行罗列，而是三个独立的正交维度，共同张成中华文化的深层认知空间。
 
