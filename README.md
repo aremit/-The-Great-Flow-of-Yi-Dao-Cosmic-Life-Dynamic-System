@@ -270,12 +270,10 @@ Three axes, non‑redundant, converge into one whole — this is precisely the i
 
 
 
-<hr>
-
- Global Non-Affiliation General Statement
+# Global Non‑Affiliation General Statement
 **Global Non‑Affiliation General Statement｜全球非隶属通用声明**
-> Author / 作者：Aremit (陈海平)
 
+> Author / 作者：Aremit (陈海平)
 
 ---
 
@@ -298,4 +296,3 @@ All materials are released through open platforms such as GitHub, OSF, ORCID, an
 ---
 
 `-- ITP‑CLDS / Aremit‑Chen Haiping(陈海平)`
-
