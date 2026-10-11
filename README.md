@@ -268,8 +268,8 @@ git clone https://github.com/aremit/The-Great-Flow-of-Yi-Dao.git
 
 Three axes, non‑redundant, converge into one whole — this is precisely the isomorphic expression of Chinese culture: “One in all, all returning to One.”
 
+---------
 
----
 # Global Non-Affiliation General Statement
 **Global Non‑Affiliation General Statement｜全球非隶属通用声明**
 > Author / 作者：Aremit (陈海平)
