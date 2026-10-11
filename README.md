@@ -272,7 +272,7 @@ Three axes, non‑redundant, converge into one whole — this is precisely the i
 
 <hr>
 
-# Global Non-Affiliation General Statement
+** Global Non-Affiliation General Statement**
 **Global Non‑Affiliation General Statement｜全球非隶属通用声明**
 > Author / 作者：Aremit (陈海平)
 
