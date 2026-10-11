@@ -267,3 +267,32 @@ git clone https://github.com/aremit/The-Great-Flow-of-Yi-Dao.git
 | Wuwei (Non‑action) | Follow natural momentum, refrain from forcing | Temporal dimension (evolutionary layer) |
 
 Three axes, non‑redundant, converge into one whole — this is precisely the isomorphic expression of Chinese culture: “One in all, all returning to One.”
+
+
+# Global Non‑Affiliation General Statement
+**Global Non‑Affiliation General Statement｜全球非隶属通用声明**
+
+> Author / 作者：Aremit (陈海平)
+
+---
+
+## 中文版本
+作者 Aremit(陈海平)特此声明，所有与集成理论—哲学宇宙生命动态系统 (ITP‑CLDS)相关的作品，包括但不限于宇宙生命动态系统、气形分化理论及相关元理论框架，均由作者以个人身份独立开发并发布。
+
+这些作品不隶属于任何国内或国外的政府、企业、学术机构、研究组织或外部实体，亦未获得其认可、资助或代表其制作。
+
+所有材料均通过 GitHub、OSF、ORCID、Zenodo 等开放平台发布，完全基于作者的个人署名与责任。对这些材料的任何解释、应用或衍生使用，均不得暗示存在机构关联或代表关系。
+
+---
+
+## English Version
+The author, Aremit (Chen Haiping), hereby declares that all works associated with the Integrated Theoretical‑Philosophical Cosmic Life Dynamic Systems (ITP‑CLDS), including but not limited to the Cosmic Life Dynamic System, Qi‑Form Differentiation Theory, and related meta‑theoretical frameworks, are independently developed and published by the author in a personal capacity.
+
+These works are not affiliated with, endorsed by, funded by, or produced on behalf of any government, corporation, academic institution, research organization, or external entity, whether domestic or international.
+
+All materials are released through open platforms such as GitHub, OSF, ORCID, and Zenodo solely under the author’s personal authorship and responsibility. Any interpretation, application, or derivative use of these materials must not imply institutional association or representation.
+
+---
+
+`-- ITP‑CLDS / Aremit‑Chen Haiping(陈海平)`
+
