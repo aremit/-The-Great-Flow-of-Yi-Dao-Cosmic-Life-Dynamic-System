@@ -268,6 +268,9 @@ git clone https://github.com/aremit/The-Great-Flow-of-Yi-Dao.git
 
 Three axes, non‑redundant, converge into one whole — this is precisely the isomorphic expression of Chinese culture: “One in all, all returning to One.”
 
+##From Michael Jackson’s *Beat It* to *Heal the World* — ITP-CLDS: Harmony with the Light, Unity with the Dust
+从迈克尔·杰克逊的《Beat It》到《Heal the World》——ITP-CLDS：和光同尘之道
+
 
 
 # Global Non‑Affiliation General Statement
@@ -296,3 +299,4 @@ All materials are released through open platforms such as GitHub, OSF, ORCID, an
 ---
 
 `-- ITP‑CLDS / Aremit‑Chen Haiping(陈海平)`
+
