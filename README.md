@@ -269,14 +269,14 @@ git clone https://github.com/aremit/The-Great-Flow-of-Yi-Dao.git
 Three axes, non‑redundant, converge into one whole — this is precisely the isomorphic expression of Chinese culture: “One in all, all returning to One.”
 
 ##Cognitive Level:Paul Simon’s “The Sound of Silence” and Zhuang Zhou’s Butterfly Dream: From Self‑Bounded Knowing to True‑Self Awakening — 保罗・西蒙《寂静之声》庄周梦蝶：从囿于己见到真我觉醒
-
+(人始于“先天”，困于后天的喧嚣与虚假中做着一场醒不来的大梦（即庄周梦蝶的悲剧版）,如睡梦中般不停接收外界信息陷于自我,只有当你的眼睛被一束强光刺痛（洞见觉醒），你才能真正听见那个寂静深处的呼唤，从梦中醒来，找回真我,进阶到德知)
 ##Application Layer:From Michael Jackson’s *Beat It* to *Heal the World* — ITP-CLDS: Harmony with the Light, Unity with the Dust
 从迈克尔·杰克逊的《Beat It》到《Heal the World》——ITP-CLDS：和光同尘之道
 
 ##emergence Layer: Confucius's Heaven‑Human Unity 孔子的天人合一
-1. 学而时习之,不亦说乎 — Learning and recurrent practising,to delight in inner attainment
-2. 有朋自远方来,不亦乐乎 — Kindred minds coming from afar,to rejoice in mutual resonance
-3. 人不知而不愠，不亦君子乎 — Unperturbed by unrecognition, abiding as noble person
+1. 学而时习之,不亦说乎 — Learning and recurrent practising,to delight in inner attainment(质-认知)
+2. 有朋自远方来,不亦乐乎 — Kindred minds coming from afar,to rejoice in mutual resonance(文-应用)
+3. 人不知而不愠，不亦君子乎 — Unperturbed by unrecognition, abiding as noble person(文质彬彬-合一)
 
 
 
