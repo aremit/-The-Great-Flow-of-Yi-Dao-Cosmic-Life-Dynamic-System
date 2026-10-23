@@ -268,12 +268,12 @@ git clone https://github.com/aremit/The-Great-Flow-of-Yi-Dao.git
 
 Three axes, non‑redundant, converge into one whole — this is precisely the isomorphic expression of Chinese culture: “One in all, all returning to One.”
 
-##Cognitive Level:The Sound of Silence and Zhuang Zhou’s Butterfly Dream: From Self‑Bounded Knowing to True‑Self Awakening — 《寂静之声》庄周梦蝶：从囿于己见到真我觉醒
+##Cognitive Level:Paul Simon’s “The Sound of Silence” and Zhuang Zhou’s Butterfly Dream: From Self‑Bounded Knowing to True‑Self Awakening — 保罗・西蒙《寂静之声》庄周梦蝶：从囿于己见到真我觉醒
 
 ##Application Layer:From Michael Jackson’s *Beat It* to *Heal the World* — ITP-CLDS: Harmony with the Light, Unity with the Dust
 从迈克尔·杰克逊的《Beat It》到《Heal the World》——ITP-CLDS：和光同尘之道
 
-##emergence Layer: Heaven‑Human Unity
+##emergence Layer: Confucius's Heaven‑Human Unity 孔子的天人合一
 1. 学而时习之,不亦说乎 — Learning and recurrent practising,to delight in inner attainment
 2. 有朋自远方来,不亦乐乎 — Kindred minds coming from afar,to rejoice in mutual resonance
 3. 人不知而不愠，不亦君子乎 — Unperturbed by unrecognition, abiding as noble person
