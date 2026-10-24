@@ -277,8 +277,8 @@ Three axes, non‑redundant, converge into one whole — this is precisely the i
 ##Beat it不是避开，是打破,打破师心自用的二元矛盾，用最强烈的鼓点、最狂野的舞蹈（劈砍砸）、最炸裂的嘶吼声+c和弦的集合(闷音（Palm Mute）+ 强力断奏（Staccato）+ 切音),这就是那一道flash of a neon light! The Sound of Silence是自我觉醒，是内修，属于柔情版，而beat it则是唤醒沉睡的大众，是外修，属于激情版.
 
 ##emergence Layer: Confucius's Heaven‑Human Unity 孔子的天人合一
-1. 学而时习之,不亦说乎 — Learning and recurrent practising,to delight in inner attainment(质-认知)
-2. 有朋自远方来,不亦乐乎 — Kindred minds coming from afar,to rejoice in mutual resonance(文-应用)
+1. 学而时习之,不亦说乎 — Learning and recurrent practising,to delight in inner attainment(内修-认知)
+2. 有朋自远方来,不亦乐乎 — Kindred minds coming from afar,to rejoice in mutual resonance(外修-应用)
 3. 人不知而不愠，不亦君子乎 — Unperturbed by unrecognition, abiding as noble person(文质彬彬-合一)
 
 
