@@ -281,6 +281,9 @@ Three axes, non‑redundant, converge into one whole — this is precisely the i
 2. 有朋自远方来,不亦乐乎 — Kindred minds coming from afar,to rejoice in mutual resonance(外修-应用)
 3. 人不知而不愠，不亦君子乎 — Unperturbed by unrecognition, abiding as noble person(文质彬彬-合一)
 
+# 大同致远：井田制 - 雨我公田，遂及我私
+Great Unity , Far-reaching vision : Well‑Field system - Shared foundation, shared prosperity
+
 
 
 # Global Non‑Affiliation General Statement
