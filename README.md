@@ -282,7 +282,7 @@ Three axes, non‑redundant, converge into one whole — this is precisely the i
 3. 人不知而不愠，不亦君子乎 — Unperturbed by unrecognition, abiding as noble person(文质彬彬-合一)
 
 ##  大同致远：井田制 - 雨我公田，遂及我私 Great Unity , Far-reaching vision : Well‑Field system - Shared foundation, shared prosperity
-居中的公田即是共同体，是万事万物运转的中枢。The central public plot (gong tian) is the community , the pivotal core upon which all things operate.
+公田即共同体: 它不属于任何个人，也不属于抽象的“公家”，它是八家共有的蓄势中枢。先共养中枢，后润泽八方；本立而标自生，共同体立而个体自润。The central gong tian is the community itself. It belongs to no individual, nor to an abstract "state authority". It is the momentum‑accumulating pivot shared by the eight households. Nurture the pivot first, then its nourishment spreads to all sides. When the root is established, branches naturally emerge; when the community stands, individuals thrive of themselves.
 
 
 
